@@ -1,4 +1,10 @@
-# TP-Gear
-Tp de AOBJ
+# GEARS
 
-Ce TP est un projet academique qui a pour but de dimmension des engrenages et des arbres.
+Academic project : sizing gear application
+
+//----- MERGE dev and main branch -----// 
+
+git checkout main
+git pull origin main
+git merge dev
+git push origin main
